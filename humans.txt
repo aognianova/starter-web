@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Angie -- dev -- <twitter>
 
 # THANKS
 
