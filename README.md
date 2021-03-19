@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Adding new line.
-One more line
+One more line, then more changes from myfeature.
 
 ## Purpose
 
