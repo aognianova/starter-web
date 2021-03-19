@@ -10,4 +10,6 @@ Sample website with plenty of files for demos
 
 Sample deployment text.
 
+## How to contribute
+
 ###Copyright
